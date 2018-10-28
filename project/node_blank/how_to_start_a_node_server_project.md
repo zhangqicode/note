@@ -1,3 +1,5 @@
+## start server
+
 1.先在 github 上创建了一个项目，添加了 README、gitignore 文件、license
 
 2.将项目 clone 到本地，在目录中执行 npm init
@@ -16,4 +18,16 @@ app.get('/', (req, res) => res.send('Hello World!'));
 ```  
 用 listen 方法监听端口，即相当于启动 server
 
+>突然好奇一个问题，注册了 get 方法之后，我是通过浏览器测试这个接口的，浏览器成功获取了结果。
+>
+>改用 post 方法注册，在用浏览器访问，浏览器显示 Cannot GET / ，说明浏览器地址栏的请求默认都是 get
 
+
+## Database integration
+
+1.选用 mysql 做数据库  
+```
+npm install mysql --save
+```
+
+2.
