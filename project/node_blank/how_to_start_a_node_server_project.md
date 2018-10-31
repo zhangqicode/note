@@ -30,4 +30,4 @@ app.get('/', (req, res) => res.send('Hello World!'));
 npm install mysql --save
 ```
 
-2.
+2.将数据库的配置放在了一个 gitignore 的路径下，防止传到公共仓库时暴露数据库信息
