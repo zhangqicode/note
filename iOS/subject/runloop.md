@@ -28,3 +28,5 @@ Runloop 的源码分析，非常详尽，而且提供了 Runloop 的诸多使用
 >可以让某些事件(行为、任务)在特定模式下执行  
 >可以添加Observer监听RunLoop的状态,比如监听点击事件的处理(在所有点击事件之前做一些事情)  
 
+孙源关于 Runloop 的分享：  
+[Runloop](http://v.youku.com/v_show/id_XODgxODkzODI0.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
