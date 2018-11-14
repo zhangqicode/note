@@ -5,4 +5,5 @@
 孙源讲 autorelease 的文章，深入的有点过分了：  
 [黑幕背后的Autorelease](https://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
 
-
+讲和 CF 桥接的：  
+[iOS bridge](https://www.jianshu.com/p/11c3bc21f56e)
