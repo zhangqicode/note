@@ -21,6 +21,9 @@
 对启动流程比较详细的介绍：  
 [App启动流程及优化](https://www.jianshu.com/p/85decaec8534?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)  
 
+美团外卖的冷启动优化：  
+[美团外卖iOS App冷启动治理](https://tech.meituan.com/2018/12/06/waimai-ios-optimizing-startup.html)
+
 ## 研究逐渐深入，笑容逐渐消失  
 
 关于 Mack-O 的两篇文章：  
