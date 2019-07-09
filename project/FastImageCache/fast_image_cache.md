@@ -37,7 +37,7 @@
 
 ### 资料
 * 一篇精简扼要的原理介绍，可以作为提纲来了解 FastImageCache：[FastImageCache 原理](https://juejin.im/entry/5b9876ccf265da0ab41e3f50)
-* 一篇十分详细的分析：[iOS高效图片 IO 框架是如何炼成的](https://simplecodesky.com/2018/04/10/ios-efficient-image-io/)
+* 一篇十分详细的分析：[iOS高效图片 IO 框架是如何炼成的](https://www.itcodemonkey.com/article/5003.html)
 
 
 
